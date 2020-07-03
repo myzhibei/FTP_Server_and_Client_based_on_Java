@@ -9,7 +9,15 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.text.DecimalFormat;
 
-//断点上传（服务端）
+/**
+ Server端
+
+ 功能说明：文件上传（断点）传输
+ @author myzhibei
+ @CreateDate 2020年07月03日
+ @Override 2020年07月03日
+ @version 1.0
+ */
 
 public class FileUpLoadServer extends ServerSocket {
     // 文件大小

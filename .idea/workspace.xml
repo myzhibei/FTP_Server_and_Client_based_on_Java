@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ad4fdc2-99ea-4140-8ef1-aad099df6ded" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FTP_Client/FileUpLoadClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/FTP_Client/FileUpLoadClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FTP_Server/FileUpLoadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FTP_Server/FileUpLoadServer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -21,16 +46,87 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ad4fdc2-99ea-4140-8ef1-aad099df6ded" name="Default Changelist" comment="" />
+      <created>1593762259737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593762259737</updated>
+      <workItem from="1593762261309" duration="1792000" />
+      <workItem from="1593764074592" duration="56000" />
+    </task>
+    <task id="LOCAL-00001" summary="断点传输">
+      <created>1593762379608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593762379608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="断点传输" />
+    <option name="LAST_COMMIT_MESSAGE" value="断点传输" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="113" key="#HTTP_Proxy" timestamp="1593763249429">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="113" key="#HTTP_Proxy/0.0.1536.834@0.0.1536.834" timestamp="1593763249429" />
+    <state x="361" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593764153209">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1593764153209" />
     <state x="620" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1593762319952">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="620" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1593762319952" />
+    <state x="367" y="15" key="CommitChangelistDialog2" timestamp="1593764170808">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="367" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593764170808" />
+    <state x="379" y="147" key="FileChooserDialogImpl" timestamp="1593764125033">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="379" y="147" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1593764125033" />
+    <state x="208" y="49" width="1038" height="695" key="SettingsEditor" timestamp="1593764129913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="208" y="49" width="1038" height="695" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593764129913" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1593762392521">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593762392521" />
   </component>
 </project>

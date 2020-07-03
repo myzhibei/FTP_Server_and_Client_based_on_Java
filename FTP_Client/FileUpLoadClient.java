@@ -14,10 +14,11 @@ import org.slf4j.LoggerFactory;
 /**
  Client端
 
- 功能说明：文件上传（断点）传输@author CSDN:seesun2012
- @CreateDate 2017年08月18日
- @Override 2017年11月07日
- @version 1.1
+ 功能说明：文件上传（断点）传输
+ @author myzhibei
+ @CreateDate 2020年07月03日
+ @Override 2020年07月03日
+ @version 1.0
  */
 public class FileUpLoadClient extends Socket{ private Logger logger = LoggerFactory.getLogger("oaLogger"); private Socket client; // Socket-客户端
     private static long status = 0; // 进度条
