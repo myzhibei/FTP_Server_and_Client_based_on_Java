@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ad4fdc2-99ea-4140-8ef1-aad099df6ded" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FTP_Server/SocketServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.20.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FTP_Client/FileUpLoadClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/FTP_Client/FileUpLoadClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FTP_Server/FileUpLoadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FTP_Server/FileUpLoadServer.java" afterDir="false" />
@@ -52,8 +55,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
@@ -80,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593762259737</updated>
       <workItem from="1593762261309" duration="1792000" />
-      <workItem from="1593764074592" duration="56000" />
+      <workItem from="1593764074592" duration="2167000" />
     </task>
     <task id="LOCAL-00001" summary="断点传输">
       <created>1593762379608</created>
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593762379608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="断点传输">
+      <created>1593764184382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593764184382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,21 +122,21 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="620" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1593762319952" />
-    <state x="367" y="15" key="CommitChangelistDialog2" timestamp="1593764170808">
+    <state x="367" y="15" key="CommitChangelistDialog2" timestamp="1593764183689">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="367" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593764170808" />
+    <state x="367" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593764183689" />
     <state x="379" y="147" key="FileChooserDialogImpl" timestamp="1593764125033">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="379" y="147" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1593764125033" />
-    <state x="208" y="49" width="1038" height="695" key="SettingsEditor" timestamp="1593764129913">
+    <state x="208" y="49" width="1038" height="695" key="SettingsEditor" timestamp="1593764328580">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="208" y="49" width="1038" height="695" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593764129913" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1593762392521">
+    <state x="208" y="49" width="1038" height="695" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593764328580" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1593764213008">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593762392521" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593764213008" />
   </component>
 </project>

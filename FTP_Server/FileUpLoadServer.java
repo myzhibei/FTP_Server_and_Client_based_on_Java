@@ -173,7 +173,7 @@ public class FileUpLoadServer extends ServerSocket {
                     System.out.println("Socket关闭失败！");
                 }
                 /**
-                 *   文件传输完毕：执行后续操作（略）
+                 *   文件传输完毕：执行后续操作
                  */
                 //TODO 录入数据库，记录文件信息：文件ID、文件名称、文件路径、文件MD5值
                 //FileInfo fi= new FileInfo()
